@@ -1,0 +1,5 @@
+23-Dec-24 14:28:48|logging_example|DEBUG|This is a debug message|36756|126
+23-Dec-24 14:28:48|logging_example|INFO|module2 got completed and module3 started|36756|127
+23-Dec-24 14:28:48|logging_example|WARNING|The warning message is displaying|36756|128
+23-Dec-24 14:28:48|logging_example|ERROR|The error message is displaying|36756|129
+23-Dec-24 14:28:48|logging_example|CRITICAL|The critical message is displaying|36756|130

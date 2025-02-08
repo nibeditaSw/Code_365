@@ -1,0 +1,13 @@
+23-Dec-24 14:49:17|ERROR|Exception details: 
+Traceback (most recent call last):
+  File "c:\Users\nibedita.swain\OneDrive - OneWorkplace\Desktop\Code_365\hackerrank\Day_5\example1.py", line 13, in <module>
+    age = int(input("Enter your age: "))
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'hello'
+34236|23-Dec-24 15:09:13|INFO
+33544|23-Dec-24 15:10:01|INFO|a user having age 21 has logged in
+18960|23-Dec-24 15:11:58|ERROR|Exception Occured
+Traceback (most recent call last):
+  File "c:\Users\nibedita.swain\OneDrive - OneWorkplace\Desktop\Code_365\hackerrank\Day_5\example1.py", line 35, in <module>
+    raise AccessDenied("Access Denied!")
+AccessDenied: Access Denied!
