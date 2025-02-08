@@ -20,3 +20,13 @@ print(count)
 # By using find method
 # find() returns the index of the first occurrence of the substring, or -1 if it is not found.
 
+s = "let me explain you let me explain you let me explain sahil"
+# string.find(substring, start, end)
+x = s.find("me", 5, 30) # starting left to right
+print(x)
+
+# If I am finding any substring that is not in the string then it will return -1
+
+# rfind ()
+y = s.rfind("me") # starting right to left
+print(y)
